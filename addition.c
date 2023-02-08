@@ -6,4 +6,5 @@ int main()
  int a = 10;
  int b = 90;
  printf("the sum of two numbers is :%d",a+b);
+ printf("the subtraction of two numbers is :%d",b-a);
 }
